@@ -4,7 +4,6 @@
   "description": "sounds good",
   "main": "index.js",
   "scripts": {
-    "start": "dflow -v sounds-good.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,8 +23,5 @@
   "bugs": {
     "url": "https://github.com/fibo/dflow-webaudio/issues"
   },
-  "homepage": "https://github.com/fibo/dflow-webaudio#readme",
-  "devDependencies": {
-    "dflow": "^0.12.0"
-  }
+  "homepage": "http://npm.im/dflow-webaudio",
 }
